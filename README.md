@@ -1,12 +1,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## 你好！👋
+## Hello！👋
 
-我是刘金亿，一名来自中国 🇨🇳 的前端工程师，我目前在致力于前端技术文章的翻译工作，闲暇时也会写一些文章分享我对一些前端知识的思考。
+I'm Jingyi Liu, a front-end engineer from China 🇨🇳. I'm currently working on translating front-end technical articles, and I also write some articles to share my thoughts on some front-end knowledge in my spare time.
 
 [<img src='https://img.shields.io/badge/-掘金-blue?style=social&logo=appveyor&link='/>](https://juejin.cn/user/1099167358523165)
 
-### 我的 GitHub 状态
+### My GitHub Status
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=liu-jin-yi&locale=cn&hide_border=true&show_icons=true"/>
@@ -15,7 +15,7 @@
 <br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-### 工具和语言
+### Tools and Languages
 
 <p align="center">
 <img src='https://img.shields.io/badge/React-%2300ADD8.svg?&logo=React&logoColor=white' height='25'/>
